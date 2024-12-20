@@ -1,4 +1,4 @@
-# FlexiSTakeLoan
+# FlexiStakeLoan
 
 ## Project Front Page
 
