@@ -553,7 +553,12 @@ const App = () => {
 
   return (
     <div className="container">
-      <h1 style={{ textAlign: "center", marginBottom: "20px" }}>
+      <h1
+        style={{
+          textAlign: "center",
+          marginBottom: "20px",
+        }}
+      >
         FlexiStakeLoan
       </h1>
       <ConnectButton />
