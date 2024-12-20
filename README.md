@@ -1,4 +1,12 @@
-# FlexiSTakeLoan Smart Contract
+# FlexiSTakeLoan
+
+## Project Front Page
+
+Here is a preview of the project's front page:
+
+![Front Page](client/src/assets/FlexiStakeLoanFrontpage.png)
+
+---
 
 ## Introduction
 FlexiSTakeLoan is a decentralized finance (DeFi) smart contract enabling users to stake native tokens, borrow funds against their staked tokens, lend tokens for rewards, and manage loan repayments. The contract also handles defaults by forfeiting staked tokens and blacklisting borrowers.
